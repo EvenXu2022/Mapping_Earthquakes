@@ -9,7 +9,7 @@ Software used: HTML, JavaScript, Visual Studio Code, LEftlet, D3
 Reference: mapbox.com
 
 ## Results
-Earthquakes map can be view in the follow 3 modes and by selecting on the layer page
+Earthquakes map can be viewed in the follow 3 modes and by selecting on the control page.
 
 <img src ="images/street_view.PNG">
 
