@@ -11,9 +11,9 @@ Reference: mapbox.com
 ## Results
 Earthquakes map can be view in the follow 3 modes and by selecting on the layer page
 
-<img src ="images/street_view.PNG>
+<img src ="images/street_view.PNG">
 
-<img src ="images/satellite_view.PNG>
+<img src ="images/satellite_view.PNG">
 
-<img src ="images/dark_view.PNG>
+<img src ="images/dark_view.PNG">
 
